@@ -1,7 +1,7 @@
 # Example of a simple Speedometer on a Chart.js
 
 ```
-**Chart.js version**: 4.4.2
+Chart.js version: 4.4.2
 ```
 
 ## How it looks:
