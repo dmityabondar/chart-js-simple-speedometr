@@ -8,4 +8,4 @@ Chart.js version: 4.4.2
 
 <img width="593" alt="image" src="https://github.com/user-attachments/assets/a559cc25-24b4-4a22-b3e4-3fa2ea192bf1">
 
-## Live example:
+## Live example: [Open on GitHub Pages](https://dmityabondar.github.io/chart-js-simple-speedometr/).
